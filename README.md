@@ -17,7 +17,7 @@ pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/tyranroot/TyranxZero.git
 cd TyraxZero
-bash TyraxZero.sh
+bash tyranroot.sh
 ````
 
 ---
